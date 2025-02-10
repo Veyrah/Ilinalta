@@ -17,7 +17,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Veyrah/Ilinalta/refs/heads/main/banner.png",
+      "image": "https://raw.githubusercontent.com/Veyrah/Ilinalta/refs/heads/main/banner.webp",
       "readme": "https://github.com/Veyrah/Ilinalta/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Ilinalta.wabbajack_60818ee0-4cb7-4fc1-bd31-b397ea1592fe",
       "machineURL": "Ilinalta",
