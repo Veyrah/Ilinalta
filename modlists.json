@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Ilinalta",
+    "description": "Ilinalta is a vanilla focused modlist that aims to deliver good visuals while maintaining compatibility with vanilla saves due to no required ESP/SKSE. ",
+    "author": "Veyrah",
+    "maintainers": [
+      "github/veyrah"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "testing",
+      "vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Veyrah/Ilinalta/refs/heads/main/banner.png",
+      "readme": "https://github.com/Veyrah/Ilinalta/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Ilinalta.wabbajack_60818ee0-4cb7-4fc1-bd31-b397ea1592fe",
+      "machineURL": "machineURL",
+      "discordURL": "https://discord.gg/UHfVZQQu93"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "P6/KEiNwyf0=",
+      "Size": 88743783,
+      "NumberOfArchives": 218,
+      "SizeOfArchives": 35766556915,
+      "NumberOfInstalledFiles": 17855,
+      "SizeOfInstalledFiles": 57057678154
+    },
+    "version": "1.0"
+  }
+]
+
