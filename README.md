@@ -9,3 +9,4 @@ Explore familiar landscapes and characters with stunning detail, all enhanced by
 Installation is done via Wabbajack and should be as simple as selecting the Ilinalta wabbajack file you download from this page and selecting the install location. If you already have Wabbajack, you can also find this modlist on there, at the browse modlists section if you check the unofficial modlist checkbox.
 
 You can join the Ilinalta Discord if you have any questions or need help with installing the modlist.
+![banner](./banner.png)
