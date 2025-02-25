@@ -19,18 +19,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Veyrah/Ilinalta/refs/heads/main/banner.webp",
       "readme": "https://github.com/Veyrah/Ilinalta/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ilinalta.wabbajack_3c12c61b-e17d-4ede-be01-eae094f99630",
+      "download": "https://authored-files.wabbajack.org/Ilinalta.wabbajack_6d33f672-4a4b-44cb-8079-747aa2c68803",
       "machineURL": "Ilinalta",
       "discordURL": "https://discord.gg/UHfVZQQu93"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "yHQxDM9crOA=",
-      "Size": 90400535,
-      "NumberOfArchives": 244,
-      "SizeOfArchives": 39050711266,
-      "NumberOfInstalledFiles": 23142,
-      "SizeOfInstalledFiles": 61905041750
+      "Hash": "3A/9NySFan4=",
+      "Size": 90403686,
+      "NumberOfArchives": 245,
+      "SizeOfArchives": 39050873032,
+      "NumberOfInstalledFiles": 23147,
+      "SizeOfInstalledFiles": 61905380533
     },
     "version": "1.3.0"
   }
